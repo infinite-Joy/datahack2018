@@ -1,2 +1,6 @@
 # datahack2018
-code and presentation for the datahack presentation
+
+## Transition from Pandas to Spark Dataframe using Scala.
+Code and presentation for the datahack presentation.
+
+
